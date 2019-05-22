@@ -11,11 +11,11 @@ const GlobalStyle = createGlobalStyle`
 }
 
 html{
-    font-size: 62.5%;   // Ustalenie podstawowej jednostki REM     //// HAPPY REMS 
+    font-size: 62.5%;
 }
 
 body {
-    font-size: 1.6rem;  // Bazowa wielkość czcionki dla projektu   //// HAPPY REMS 
+    font-size: 1.6rem;
     font-family: 'Montserrat', sans-serif;
 }
 `;
